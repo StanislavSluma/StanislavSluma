@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSluma&layout=compact&theme=light)](https://github.com/StanislavSluma/github-readme-stats)
 <!--
 **StanislavSluma/StanislavSluma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
